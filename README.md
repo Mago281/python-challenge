@@ -15,6 +15,7 @@
 ## YouTube Videos & Cheat Sheets
 ------------------------------------------------------------------
 from Mark Jenson: 	Python Beginner - https://www.learnpython.org/
+
 Python Scripting - https://automatetheboringstuff.com/
 Python Tutorials:	https://realpython.com/
 Python Data Types:	https://www.digitalocean.com/community/tutorials/python-data-types
