@@ -1,7 +1,7 @@
 # python-challenge
 
 ## Assistance from
-##-----------------------------------
+-----------------------------------
 	1-on-1 tutor Jesse Wright	
 	Office hours
 	Tuition session with Michael Wenz	
@@ -13,7 +13,7 @@
 
 
 ## YouTube Videos & Cheat Sheets
-##------------------------------------------------------------------
+------------------------------------------------------------------
 from Mark Jenson: 	Python Beginner - https://www.learnpython.org/
 Python Scripting - https://automatetheboringstuff.com/
 Python Tutorials:	https://realpython.com/
@@ -24,7 +24,7 @@ Conda Cheat Sheet:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-
 
 
 ## In-Class Activities
-##------------------------------------------
+------------------------------------------
 Module 3 Class 1 Activities	04, 08, 10
 Module 3 Class 2 Activities	08, 09, 10, 12
 Module 3 Class 3 Activity	03
