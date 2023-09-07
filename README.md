@@ -1,6 +1,6 @@
 # python-challenge
 
-Assistance from
+## Assistance from
 -----------------------------------
 	1-on-1 tutor Jesse Wright	
 	Office hours
@@ -12,7 +12,7 @@ Assistance from
 	W3Schools
 
 
-YouTube Videos & Cheat Sheets
+## YouTube Videos & Cheat Sheets
 ------------------------------------------------------------------
 from Mark Jenson: 	Python Beginner - https://www.learnpython.org/
 Python Scripting - https://automatetheboringstuff.com/
@@ -23,7 +23,7 @@ Python Reference Guide:	https://git.bootcampcontent.com/University-of-Adelaide/U
 Conda Cheat Sheet:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/03-Python/Supplemental/conda-cheatsheet.pdf
 
 
-In-Class Activities
+## In-Class Activities
 ------------------------------------------
 Module 3 Class 1 Activities	04, 08, 10
 Module 3 Class 2 Activities	08, 09, 10, 12
