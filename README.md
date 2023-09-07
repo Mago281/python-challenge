@@ -2,38 +2,38 @@
 
 ## Assistance from
 -----------------------------------
-1.  1-on-1 tutor Jesse Wright	
+1.   1-on-1 tutor Jesse Wright	
 
-2.  Tuition session with Michael Wenz
+2.   Tuition session with Michael Wenz
 
-3.  TA Vicky Liao	
+3.   TA Vicky Liao	
 
-4.  Office hours
+4.   Office hours
 
-5.  Ask BCS
+5.   Ask BCS
 
-6.  ChatGPT
+6.   ChatGPT
 
-7.  Stack Overflow	
+7.   Stack Overflow	
 
-8.  W3Schools
+8.   W3Schools
 
 
 ## YouTube Videos & Cheat Sheets
 -----------------------------------------------------------------------
-1.  from Mark Jenson: 	Python Beginner - https://www.learnpython.org/
+1.   from Mark Jenson: 	Python Beginner - https://www.learnpython.org/
 
-2.  Python Scripting - https://automatetheboringstuff.com/
+2.   Python Scripting - https://automatetheboringstuff.com/
 
-3.  Python Tutorials:	https://realpython.com/
+3.   Python Tutorials:	https://realpython.com/
 
-4.  Python Data Types:	https://www.digitalocean.com/community/tutorials/python-data-types
+4.   Python Data Types:	https://www.digitalocean.com/community/tutorials/python-data-types
 
-5.  Python cheatsheet:	https://quickref.me/python.html
+5.   Python cheatsheet:	https://quickref.me/python.html
 
-6.  Python Reference Guide:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/03-Python/Supplemental/Python_Reference_Guide.ipynb
+6.   Python Reference Guide:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/03-Python/Supplemental/Python_Reference_Guide.ipynb
 
-7.  Conda Cheat Sheet:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/03-Python/Supplemental/conda-cheatsheet.pdf
+7.   Conda Cheat Sheet:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/03-Python/Supplemental/conda-cheatsheet.pdf
 
 
 ## In-Class Activities
