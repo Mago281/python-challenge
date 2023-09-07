@@ -2,8 +2,8 @@
 
 ## Assistance from
 -----------------------------------
-###	1-on-1 tutor Jesse Wright	
-###	Office hours
+	1-on-1 tutor Jesse Wright	
+	Office hours
 	Tuition session with Michael Wenz	
 	Ask BCS
 	TA Vicky Liao	
